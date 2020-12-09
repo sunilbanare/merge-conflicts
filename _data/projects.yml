@@ -2,14 +2,14 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
+- project: Big Project
   role: Contributor
   duration: 2016 &mdash; Present
   url: "https://github.com/probot/probot"
   description: A framework for building GitHub Apps to automate and improve your workflow
 
 # GitHub Classroom
-- project: GitHub Classroom
+- project: AZ-400
   role: Contributor
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
